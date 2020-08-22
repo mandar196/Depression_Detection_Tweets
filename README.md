@@ -8,6 +8,11 @@ Link for dataset: https://www.kaggle.com/kazanova/sentiment140
 
 # Wordcloud (Depressive words)
 
+![d](https://user-images.githubusercontent.com/61036755/90950677-814d8500-e471-11ea-9b28-b04b86a4c8b1.png)
+
 # Wordcloud (Positive words)
+
+![p](https://user-images.githubusercontent.com/61036755/90950678-83174880-e471-11ea-8f13-932dee887af7.png)
+
 
 If you like this repo, please don't forget to give a ⭐.
