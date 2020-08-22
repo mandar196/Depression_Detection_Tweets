@@ -6,4 +6,8 @@ Sentiment140: The Sentiment140 dataset contains 1,600,000 tweets extracted using
 
 Link for dataset: https://www.kaggle.com/kazanova/sentiment140
 
+# Wordcloud (Depressive words)
+
+# Wordcloud (Positive words)
+
 If you like this repo, please don't forget to give a ⭐.
